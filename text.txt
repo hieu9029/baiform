@@ -1,0 +1,39 @@
++ Input: 
+    - submit
+    - number
+    - datetime
+    - text
+    - Password
+        * select option : hiển thị nhều lựa chọn
+        * text area : nhập vào vùng văn bản (nhiều dòng nhiều lựa chọn)
+    - email
+    - checkbox
+    - radio
+    - reset
+    
++ <form></form> : thẻ forrm
+    <form>
+    
+        <input>
+        
+            <input name="">: tên
+            <input value="">: giá trị input
+            <input placeholder=""> : thành phần gợi ý
+            <input autofocus="true/false">: tự động focus vào Input
+            <input autocomplete="on/of">: gợi ý giá trị nhập trc đó
+            <input type=""> :kiểu input
+        
+        
+
+        <select>
+        
+            <option>option</option>
+        
+        </select>
+
+        <textarea> Nội dung </textarea>
+
+
+
+
+    </form>
